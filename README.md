@@ -1,5 +1,5 @@
 <h1><center>Homework 1 - READ ME</center></h1> 
-<center><img src="img/homer_reading.gif" alt="Drawing" style="width: 230px;"/></center>
+<center><img src="img/homer_reading.gif" alt="Drawing" style="width: 200px;"/></center>
 
 ##### **Author:** Daniel Mauricio Jiménez Gutiérrez
 ##### **Date:** 2020/10/24
